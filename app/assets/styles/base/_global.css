@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #333;
-
+  margin: 0;
 }
 
 img {
@@ -10,7 +10,6 @@ img {
 }
 
 * {
-  margin: 0;
   box-sizing: border-box;
 }
 
