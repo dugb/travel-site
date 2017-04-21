@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^3.2.1",
+    "jquery-smooth-scroll": "^2.1.2",
     "normalize.css": "^6.0.0",
     "waypoints": "^4.0.1"
   },
