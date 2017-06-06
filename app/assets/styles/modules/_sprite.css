@@ -5,6 +5,11 @@ Instead edit gulp/templates/sprite */
       background-image: url('/assets/images/sprites/sprite-0f9283b3.svg');
     }
 
+    .no-svg .icon {
+      background-image: url('/assets/images/sprites/sprite-0f9283b3.png');
+    }
+
+
   .icon--clear-view-escapes {
     width: 142.4px;
     height: 59.53px;
@@ -18,7 +23,7 @@ Instead edit gulp/templates/sprite */
   }
 
   .icon--facebook {
-    width: 20.23px;
+    width: 21.23px;
     height: 42.01px;
     background-position: 26.040607071652357% 45.795830448496034%;
   }
