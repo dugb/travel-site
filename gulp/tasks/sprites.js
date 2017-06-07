@@ -5,6 +5,11 @@ var gulp        = require('gulp'),
     convert     = require('gulp-rsvg');
 
 var config = {
+  shape: {
+    spacing: {
+      padding: 1
+    }
+  },
   mode: {
     css: {
       variables: {
